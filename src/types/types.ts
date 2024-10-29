@@ -7,7 +7,6 @@ export interface NewUserRequestBody{
     gender: string;
     _id: string;
     dob: Date;
-
 }
 
 export interface NewProductRequestBody{
